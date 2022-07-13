@@ -1,3 +1,3 @@
 # aperture.github.io
-Landing page 
+Верстка LP на HTML и CSS, адаптив.
 https://newverstka.github.io/aperture.github.io/
